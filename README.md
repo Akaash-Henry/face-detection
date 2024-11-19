@@ -1,0 +1,1 @@
+The face detection model is used for detection and identification of a face infront of the available camera. The model uses opencv for machine learning of visual content and the cascades are used for the various angle situations of the face infront of the camers
